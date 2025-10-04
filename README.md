@@ -1,5 +1,5 @@
 
- # Prodigy Infotech Data Science Intership Task 1 :
+ # Prodigy Infotech Data Science Internship Task 1 :
 ![PRODIGY_DS_1](https://github.com/user-attachments/assets/c25e1dc2-f35f-47f4-bbc7-77f10fd19f1e)
 
  
